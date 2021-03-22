@@ -8,7 +8,7 @@
  */
 
 class Recomme_Order {
-    public $base_url = 'https://api.recomme.pl';
+    public $base_url = 'https://api.recomme.io';
     public $wc_pre_30 = false;
     public $api_key;
     public $customer_key;
